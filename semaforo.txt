@@ -1,0 +1,11 @@
+luz roja peaton
+luz verde coches 
+repetir
+
+pulsa boton
+espera 2s
+luz ambar coches 3s
+luz roja coches 
+luz verde peatones 10s
+muñeco parpadeo 5s
+luz ambar 3s
